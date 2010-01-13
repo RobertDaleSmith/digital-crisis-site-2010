@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.digitalcrisis.com/</title>
+  <link>http://www.digitalcrisis.com/</link>
+
+<item>
+     <link>http://www.digitalcrisis.com/</link>
+     <title>Digital Crisis | Home - Houston Computer Repair Home &amp; Business</title>
+     <description>We provide and maintains the highest quality of personalized computer repair services with honesty and integrity with customer service being the number one goal.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/</link>
+     <title>Digital Crisis | Services - Apple PC Laptops Computer IT Support</title>
+     <description>We offer a full array of computer repair and IT support services to homes and businesses. Bring your system into our shop or schedule an onsite appointment.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#in-shop</link>
+     <title>Digital Crisis | Services - In-Shop Computer Support Services</title>
+     <description>A full service 'Repair Shop' with state of the art equipment and tools.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#on-site</link>
+     <title>Digital Crisis | Services - Onsite Computer Support Services</title>
+     <description>Free pickups &amp; delivery, and we will even disconnect and reconnect your desktop computer.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#pc-repair</link>
+     <title>Digital Crisis | Services - PC Computer Repair Services</title>
+     <description>Full diagnostics and repair of all hardware and software problems.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#laptop-repair</link>
+     <title>Digital Crisis | Services - Laptop / Notebook Repair Services</title>
+     <description>All laptops are repaired in our local shop. DC Jack Repair, AC Adaptor Replacement, LCD Screen and Inverter Replacement for laptops with blank or cracked displays.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#apple-mac-repair</link>
+     <title>Digital Crisis | Services - Apple Mac Repair Services</title>
+     <description>Full diagnostic &amp; repair of both software and hardware problems. MacOS Cleanups, Optimizations, MacOS Reload, &amp; User Data Migration.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#computer-networking</link>
+     <title>Digital Crisis | Services - Computer Networking Support Services</title>
+     <description>Diagnose &amp; solve any computer network related issue. Internet Connection Issues with Cable, DSL, and Dial Up.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#virus-removal</link>
+     <title>Digital Crisis | Services - Virus &amp; Malware Removal Services</title>
+     <description>Full virus cleanups and operating system repair to correct problems caused by viruses. We can remove all types of infections. (spyware, adware, trojans, worms, and root kits)</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#data-recovery</link>
+     <title>Digital Crisis | Services - Data Backup &amp; Recovery Services</title>
+     <description>Advanced Data Recovery techniques to recover lost files, deleted files, or even files from a failing hard drive.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#server-support</link>
+     <title>Digital Crisis | Services - Server Support Services</title>
+     <description>Full diagnostic &amp; repair of both software and hardware problems. Windows Server Support (Exchange Email Server, File Server, Active Directory, DNS, Domain Controllers)</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#managed-IT</link>
+     <title>Digital Crisis | Services - Managed IT Services</title>
+     <description>Outsource your IT department to Digital Crisis and save big. We offer a complete, one-stop solution for all your business's IT needs.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#retail-pos</link>
+     <title>Digital Crisis | Services - Retail Point of Sales (POS) Support Services</title>
+     <description>Diagnostic and repair of most Point Of Sales systems. Installation and implementation of Point Of Sales systems.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#custom-computer</link>
+     <title>Digital Crisis | Services - Custom Built Computer Services</title>
+     <description>Any kind of computer system you want, we can build it. We build based on your needs and specifications.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#handheld-repair</link>
+     <title>Digital Crisis | Services - Handheld Electronics Support Services</title>
+     <description>We can even repair most of your handheld electronics like digital camaeras and cellphones. iPod, iPhone, iPad cracked and failed screen repair.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#computer-training</link>
+     <title>Digital Crisis | Services - Computer Training Servicesc</title>
+     <description>Digital Crisis is here to inform and educate everyone of our clients. We can help teach you preventive maintenance and measures to take to avoid a crisis.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/services/#computer-recycling</link>
+     <title>Digital Crisis | Services - Free Electronics Recycling Services</title>
+     <description>Electronics waste is an ever increasing problem in our modern times. This is why are offering the public a free service to properly recycle and dispose of old and unused computer systems.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/</link>
+     <title>Digital Crisis | Prices - Just Fix It Full PC MAC Repair Package</title>
+     <description>The easiest to understand computer repair pricing in the industry. Simplified, so that you can make the right choice on whether to repair your computer or not.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#just-fix-it</link>
+     <title>Digital Crisis | Prices - Just Fit It</title>
+     <description>Complete Computer Repair Package</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#on-site</link>
+     <title>Digital Crisis | Prices - On Site</title>
+     <description>We Come to Your Business or Home</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#flat-rates</link>
+     <title>Digital Crisis | Prices - Flat Rate Services</title>
+     <description>Fair &amp; Easy To Understand Rates</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#data-revocery</link>
+     <title>Digital Crisis | Prices - Data Recovery</title>
+     <description>Rescue Lost or Erased Data Files</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#business-IT</link>
+     <title>Digital Crisis | Prices - Business IT Solutions</title>
+     <description>Your Own IT Department a Call Away</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#turn-around-time</link>
+     <title>Digital Crisis | Prices - Fastest Turnaround Time</title>
+     <description>Our average turnaround time is only 1 to 2 days. Additional time may be needed with severe virus infections and to order non-stock parts.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#free-diagnostics</link>
+     <title>Digital Crisis | Prices - Free Diagnostics</title>
+     <description>Digital Crisis offers free diagnostics so that you can make an informed decision on whether to repair or replace you computer.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#free-pickup-delivery</link>
+     <title>Digital Crisis | Prices - Free Pickup &amp; Delivery</title>
+     <description>Digital Crisis provides a free pickup &amp; delivery service to all businesses &amp; homes inside the I-610 loop.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#student-discounts</link>
+     <title>Digital Crisis | Prices - Student Discounts</title>
+     <description>Digital Crisis gives a 10% discount on labor for all college students. Just present your student ID to save.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#free-recycling</link>
+     <title>Digital Crisis | Prices - Free Recycling</title>
+     <description>Digital Crisis allows you to drop off your old computers and equipment for safe recycling.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#free-consultation</link>
+     <title>Digital Crisis | Prices - Free Consultation</title>
+     <description>Call today to talk to a real technician and get free advice and answers to your computer questions.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/prices/#free-site-survey</link>
+     <title>Digital Crisis | Prices - Free Site Survey</title>
+     <description>Small, medium, and large businesses are all entitled to a free site survey. Our IT business professional will assess your equipment and needs to find the best solution for your business.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/whydc/</link>
+     <title>Digital Crisis | Why Digital Crisis - Competitive Computer Repair</title>
+     <description>We provide and maintain the highest quality of personalized computer repair services with honesty and integrity. Competitive pricing and service is priority.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/whydc/#difference</link>
+     <title>Digital Crisis | Why Digital Crisis - Competitor Price Comparison</title>
+     <description>Why spend more by taking your computer to the geeks. Bring your computer into Digital Crisis for fair and honest service.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/whydc/#free-services</link>
+     <title>Digital Crisis | Why Digital Crisis - Free Services</title>
+     <description>Free diagnostics, free pickup &amp; deliveries, free consultations, free site survery, and free computer recycling services.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/whydc/#discounts</link>
+     <title>Digital Crisis | Why Digital Crisis - Extra Discounts</title>
+     <description>Giving back to the community by offering extra discounts for students and senior citizens. Ten percent off for students. Fifteen percent off for senior citizens.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/about/</link>
+     <title>Digital Crisis | About Us - Socially Conscious Computer Repair</title>
+     <description>Digital Crisis's mission is to provide and maintain the highest quality of personalized computer repair services with honesty and integrity to everyone.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/about/#mission</link>
+     <title>Digital Crisis | About Us - Mission Statement</title>
+     <description>Digital Crisis's mission is to provide and maintain the highest quality of personalized computer services with honesty and integrity to everyone, to offer a rewarding and nurturing work environment for experienced computer techs, and to give back to our community by offering free and discounted public services.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/about/#profile</link>
+     <title>Digital Crisis | About Us - Company Profile</title>
+     <description>Conceived in 2005 with just two people, Digital Crisis is now a leading service driven, IT support company with a dozen highly experienced technicians ready to help. In early 2009, we relocated to Downtown Houston to be centrally located to better serve all of the Houston area.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/about/#founders</link>
+     <title>Digital Crisis | About Us - Our Founders</title>
+     <description>The collective background and experience of our team is one of the main qualities that sets us apart from any other IT company. With a combinded experiece of over 40 years, our staff is able to solve just about any technical problem for your home or business.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/about/#Billy</link>
+     <title>Digital Crisis | About Us - Billy Hathcock</title>
+     <description>Billy has over twenty years of experience in the Commercial and Personal IT field and over ten years in business management.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/about/#Robert</link>
+     <title>Digital Crisis | About Us - Robert Smith</title>
+     <description>Robert is a life long computer tech and has been fixing computers since before he could even read what was on the screen. With over thirteen years of experience as a freelance computer tech and web developer, he has aquired the neccessary skills to quickly solve just about any computer problem.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/about/#Zach</link>
+     <title>Digital Crisis | About Us - Zach Kitchen</title>
+     <description>Zach has been building, repairing, and upgrading computers since he was in junior high school. Professionally, Zach gained experience working as an IT/System administrator for an internet café, managing over two dozen PCs with a server that controlled it all.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/</link>
+     <title>Digital Crisis | Questions? - Common Computer Repair Answers</title>
+     <description>Answers to the most commonly asked questions about having a computer repaired and what to expect. Call or email us to ask us any computer question!</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer1</link>
+     <title>Digital Crisis | Questions? - What do I need to bring in to have my computer fixed?</title>
+     <description>When you bring your computer into our shop for service, there is no need to bring a bunch of stuff. We don't need any keyboards, monitors...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer2</link>
+     <title>Digital Crisis | Questions? - How long will it take to have my computer fixed?</title>
+     <description>In-shop service usually takes 1-2 days, depeding on the problems we find and parts ordered...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer3</link>
+     <title>Digital Crisis | Questions? - What if my computer isn't worth repairing and I decline service?</title>
+     <description>We offer free diagnostics on inshop repairs, so that you are able to make the right economic decision...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer4</link>
+     <title>Digital Crisis | Questions? - What is the difference between Laptop and Desktop repair?</title>
+     <description>Repairing a laptop, notebook, or netbook is NOT the same as repairing a desktop computer system...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer5</link>
+     <title>Digital Crisis | Questions? - Will my files be backed up during repair?</title>
+     <description>Yes. Making a backup image of your hard drive is apart of our inshop repair service...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer6</link>
+     <title>Digital Crisis | Questions? - What is the difference between data recovery and data back-up?</title>
+     <description>Data Recovery is a service we offer to recover lost or accidentally deleted files...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer7</link>
+     <title>Digital Crisis | Questions? - How far will you guys travel to go onsite?</title>
+     <description>We serve Houston and all the surrounding communities. All homes and businesses within a 50 mile radius...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer8</link>
+     <title>Digital Crisis | Questions? - What makes you different then Geek Squad or other local geek crews?</title>
+     <description>Many of our best customers have come to us after a Geek Squad repair experience...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer9</link>
+     <title>Digital Crisis | Questions? - Will you guys send my laptops out-of-state like Geek Squad does?</title>
+     <description></description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer10</link>
+     <title>Digital Crisis | Questions? - Is there a warranty or guarantee of service?</title>
+     <description>Yes! Our services are covered by a 30 day warranty*. Please click here to view our Guarantee page...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer11</link>
+     <title>Digital Crisis | Questions? - How is my privacy protected?</title>
+     <description>Every single technician follows a strict privacy policy. Please click here to view our Privacy Policy page...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer12</link>
+     <title>Digital Crisis | Questions? - What are Digital Crisis's terms of service?</title>
+     <description>Please click here to view our Terms of Service page...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/questions/#answer13</link>
+     <title>Digital Crisis | Questions? - Can I work for Digital Crisis?</title>
+     <description>We are always seeking experienced computer enthusiasts that love to help people...</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/testimonials/</link>
+     <title>Digital Crisis | Testimonials - Our Past Clients Say It Best</title>
+     <description>Our clients tell the story the best. Read about the positive stories of our happy customers and their computer repair experiences. Satisfaction is guaranteed!</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/testimonials/#client-reviews</link>
+     <title>Digital Crisis | Testimonials - RatePoint Client Reviews</title>
+     <description>We love feedback! So please tell us about your experience with Digital Crisis. If you were unsatisfied for any reason, then let us know so we can make it right.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://rate.digitalcrisis.com/</link>
+     <title>Digital Crisis | Testimonials - Leave Feedback</title>
+     <description>Easy way to leave your feedback about our services. Share your good experiences and testimonials on our Rate Point consumer rating service page.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/testimonials/#google-reviews</link>
+     <title>Digital Crisis | Testimonials - Google Client Reviews</title>
+     <description>Being at the top of Google is a true testiment of popularity. We can easily be found with a quick search on Google's Maps. Spread the word by leaving a short review that will help put us on the map.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/testimonials/#facebook</link>
+     <title>Digital Crisis | Testimonials - Facebook Fans &amp; Comments</title>
+     <description>Recommend our web site to your friends on Facebook. Also like us on Facebook and join our list of fans.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://facebook.digitalcrisis.com/</link>
+     <title>Digital Crisis | Testimonials - Our Facebook Page</title>
+     <description>Follow us on our Facebook page. Like us and share with all your Facebook friends.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/press/</link>
+     <title>Digital Crisis | News - Press Releases &amp; Current Events</title>
+     <description>Keep updated with us by reading our latest news. Here you will find links to us in the news and our press releases.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/locations/</link>
+     <title>Digital Crisis | Locations - Houston Computer Repair Nationwide</title>
+     <description>We're centrally located in Downtown Houston, Texas. Although we primarily serve Houston and the surrounding communities, we also offer our services nationwide.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/locations/#nationwide</link>
+     <title>Digital Crisis | Locations - Nationwide Computer Repair Services</title>
+     <description>Free Shipping With Repair! We will refund the initial shipping costs, plus ship it back to you for no charge, if you go with our Just Fix It complete repair package.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/locations/#houstontx</link>
+     <title>Digital Crisis | Locations - Houston, TX Computer Shop</title>
+     <description>We're centrally located in Downtown Houston, Texas. Although we primarily serve Houston and the surrounding communities, we also offer our services nationwide.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/contact/</link>
+     <title>Digital Crisis | Contact Us - Talk To Real Technicians Today</title>
+     <description>All your IT questions and help is just a phone call away. Call to speak with a real computer technician about repairing your desktop, laptop or server computer.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/contact/#contactform</link>
+     <title>Digital Crisis | Contact Us - Instant Contact Form</title>
+     <description>Digital Crisis is a customer service driven company, and we are focused on offering the highest quality service possible to every single client.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/contact/#information</link>
+     <title>Digital Crisis | Contact Us - Contact Information</title>
+     <description>Houston Texas Location Phone:281-500-1213, 1-877-NO-PC-BUGS, Fax:281-500-1133, Email: help@digitalcrisis.com, Mail: 1711 Aden Mist Dr., Houston, TX 77003</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/contact/#remote-support</link>
+     <title>Digital Crisis | Contact Us - Remote Support</title>
+     <description>Digital Crisis can remote into your computer and correct minor software issues.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://blog.digitalcrisis.com/</link>
+     <title>Digital Crisis | Blog - Computer News, Tips, Reviews, Updates</title>
+     <description>Follow us on our blog to keep up to date on the latest news about Digital Crisis. Also check back for useful computer tips and reviews.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/status/</link>
+     <title>Digital Crisis | Check Repair Status - Realtime Progress Reports</title>
+     <description>With us you can check the status of your repair in real time online. Simply, login with your ticket number and monitor your computer's repair status as it happens.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/terms/</link>
+     <title>Digital Crisis | Terms of Service - What To Expect How We Operate</title>
+     <description>Our terms of service are clear and easy to understand so that you know exactly what to expect on how we operate. No hidden fees or charges.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/privacy/</link>
+     <title>Digital Crisis | Privacy Policy - User Data Privacy Protection</title>
+     <description>Our clients' privacy and personal data is protected and kept confidential throughout the entire repair process. Our secure backup server ensures security.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/guarantee/</link>
+     <title>Digital Crisis | Guarantee - Warranty Guaranteed Computer Repair</title>
+     <description>Satisfaction guaranteed computer repair. All of our labor services are covered by a thirty (30) day warranty and guarantee the highest quality service possible.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/sitemap/</link>
+     <title>Digital Crisis | Site Map - Easier Navigation Find Computer Help</title>
+     <description>Site map allows for easier navigation of our website and to help you to quickly locate the computer help you need. View all computer repair services offered.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/careers/</link>
+     <title>Digital Crisis | Careers - Rewarding Computer Work Environment</title>
+     <description>Our team is always seeking out highly skilled computer technicians. If you love to work on computers and enjoy helping others, then submit your resume today.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.digitalcrisis.com/DCbro603.pdf</link>
+     <title>Digital Crisis | Brochure - Printable Information</title>
+     <description>Print our brochure and share with friends and family. Our entire website captured in one pamphlet. Check out services and easy to understand rates.</description>
+     <ror:updatePeriod>always</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

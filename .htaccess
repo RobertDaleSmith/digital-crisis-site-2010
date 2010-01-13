@@ -1,0 +1,4 @@
+Redirect /cc https://www.eprocessingnetwork.com/MSCLogin.html
+Redirect /rate http://ratepoint.com/tellus/30992
+ErrorDocument 401 /errpages/404.php
+ErrorDocument 404 /errpages/404.php
